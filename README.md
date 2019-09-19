@@ -1,9 +1,10 @@
 # OpenSTEAM
-OpenSTEAM is Open Source STEAM Education Tools.    
+OpenSTEAM is Open Source STEAM Education Tool.
+STEAM is an educational approach to learning that uses Science, Technology, Engineering, the Arts and Mathematics
  
   
 ## What is Open Source STEAM Education Tools?
-Open Source STEAM Education Tools is data that allows you to create tools that you can learn while playing.  
+Open Source STEAM Education Tool is data that allows you to create tools that you can learn while playing.  
 
 
 

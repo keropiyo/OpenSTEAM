@@ -8,7 +8,7 @@ binary_and_decimal_under.ai
  * Adobe illustrator data for laser cutters. Use with a laser cutter or printer.
  Use 110mm x 110mm clear acrylic with a laser cutter. 
 ![binary_and_decimal_under](https://user-images.githubusercontent.com/3609473/65244102-bbf1c380-db24-11e9-886e-ec14a58d8564.png)
-The above image data can be used by printing on paper.  
+You can use the above image data by printing it on paper.   
 
 ## License
 Copyright (c) 2019 keropiyo/KantanTech

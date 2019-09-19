@@ -8,7 +8,7 @@ Open Source STEAM Education Tool is data that allows you to create tools that yo
 
 
 
-1. binarycircle</dt>
+binarycircle
  * Adobe illustrator data for laser cutters.
  * Photo of the finished product.
 

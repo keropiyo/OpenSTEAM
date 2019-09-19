@@ -12,6 +12,7 @@ Open Source STEAM Education Tools is data that allows you to create tools that y
  * Photo of the finished product.
 
 ## License
+Copyright (c) 2019 keropiyo/KantanTech
 OpenSTEAM is released under the [MIT license](https://opensource.org/licenses/mit-license.php).
 
 

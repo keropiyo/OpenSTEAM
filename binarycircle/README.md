@@ -7,7 +7,7 @@ this is a binarycircle(look at the picture.)
 
 ## Cut Data
 binary_and_decimal_under.ai
-Adobe illustrator data for laser cutters.
+ * Adobe illustrator data for laser cutters.
 
 ## License
 Copyright (c) 2019 keropiyo/KantanTech

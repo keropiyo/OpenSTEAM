@@ -4,8 +4,9 @@ OpenSTEAM is Open Source STEAM Education Tools.
   
 ## What is Open Source STEAM Education Tools?
 Open Source STEAM Education Tools is data that allows you to create tools that you can learn while playing.
-* Adobe illustrator data for laser cutters. 
-* Photo of the finished product.  
+1. binary magic circle
+ * Adobe illustrator data for laser cutters. 
+ * Photo of the finished product.  
   
 
 ## License
